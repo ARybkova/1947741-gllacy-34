@@ -1961,6 +1961,10 @@ body {
   border: none;
 }
 
+.control__input[type="checkbox"]:focus + .control__mark-square {
+  border: 1px solid #ff2f64;
+}
+
 .control__input[type="checkbox"]:checked:focus + .control__mark-square {
   background-image: url("../images/check-on-focus.svg");
   background-repeat: no-repeat;
