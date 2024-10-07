@@ -1,3 +1,5 @@
+https://arybkova.github.io/1947741-gllacy-34/
+
 # Личный проект «Глейси»
 
 - Студент: [Алена Рыбкова](https://up.htmlacademy.ru/htmlcss/34/user/1947741).
